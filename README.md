@@ -21,7 +21,7 @@ A real-time chat application built with React, styled-components, and Vite. This
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/chat-application.git
+   git clone https://github.com/robertocandales/chat.git
    cd chat-application
    ```
 
