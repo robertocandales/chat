@@ -28,7 +28,7 @@ A real-time chat application built with React, styled-components, and Vite. This
 2. **Create a `.env` file** in the root directory of the project with the following content:
 
    ```
-   VITE_API_BASE=http://localhost:3000
+   VITE_API_BASE=http://localhost:3000git
    ```
 
 3. **Install dependencies**:
